@@ -1,3 +1,4 @@
+# Builder Stage
 FROM node:alpine as builder
 
 WORKDIR '/app'
